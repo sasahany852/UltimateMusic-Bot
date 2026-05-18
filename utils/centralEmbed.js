@@ -40,7 +40,7 @@ class CentralEmbedHandler {
                         value: [
                             '• `shape of you`',
                             '• `lofi hip hop beats`',
-                            '• `https://youtu.be/dQw4w9WgXcQ`',
+                            '• `https://discord.gg/X2H46apn8T`',
                             '• `imagine dragons believer`'
                         ].join('\n'),
                         inline: true
@@ -69,7 +69,7 @@ class CentralEmbedHandler {
                 )
                 .setImage('https://i.ibb.co/DDSdKy31/ezgif-8aec7517f2146d.gif')
                 .setFooter({ 
-                    text: 'Ultimate Music Bot • Developed By GlaceYT!',
+                    text: 'Ultimate Music Bot • Mogrem Game',
                     iconURL: this.client.user.displayAvatarURL()
                 })
                 .setTimestamp();
@@ -228,7 +228,7 @@ class CentralEmbedHandler {
                         value: [
                             '• `shape of you`',
                             '• `lofi hip hop beats`',
-                            '• `https://youtu.be/dQw4w9WgXcQ`',
+                            '• `https://discord.gg/X2H46apn8T`',
                             '• `imagine dragons believer`'
                         ].join('\n'),
                         inline: true
@@ -257,7 +257,7 @@ class CentralEmbedHandler {
                 )
                 .setImage('https://i.ibb.co/DDSdKy31/ezgif-8aec7517f2146d.gif')
                 .setFooter({ 
-                    text: 'Ultimate Music Bot • Developed By GlaceYT!',
+                    text: 'Ultimate Music Bot • Morgen Game',
                     iconURL: this.client.user.displayAvatarURL()
                 })
                 .setTimestamp();
